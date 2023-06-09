@@ -1,4 +1,3 @@
     
-[![mmoumani's 42 stats](https://badge.mediaplus.ma/greenbinary/mmoumani)](https://github.com/oakoudad/badge42)
-    
-[![mmoumani's 42 stats](https://badge.mediaplus.ma/greenbinary/mmoumani)]
+
+![mmoumani's 42 stats](https://badge.mediaplus.ma/greenbinary/mmoumani)
