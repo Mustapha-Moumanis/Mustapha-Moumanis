@@ -1,4 +1,4 @@
-[![mmoumani's 42 stats](https://badge.mediaplus.ma/greenbinary/mmoumani)](https://github.com/Mustapha-Moumanis)
+<h1 align="center"> Hi 👋🏻, I'm Mustapha Moumanis </h1>
 
 # 💫 About Me:
 🔭 I’m currently working on: Building full-stack projects with Django and JavaScript, focusing on authentication, dynamic routing, and social features.<br><br>👯 I’m looking to collaborate on: Open-source web development projects, especially those that involve integrating modern front-end technologies with robust back-end frameworks like Django.<br><br>🌱 I’m currently learning: Advanced JavaScript concepts, API integration, and security best practices like 2FA, along with improving my front-end skills with React.<br><br>💬 Ask me about: Full-stack development, Django authentication systems, integrating OAuth2 providers, and building SPAs with JavaScript.<br><br>⚡ Fun fact: I study at 1337 School, where there are no teachers or classrooms, and the learning is entirely project-based!
@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mustapha-Moumanis&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mustapha-Moumanis&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustapha-Moumanis&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mustapha-Moumanis&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
